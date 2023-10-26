@@ -65,7 +65,7 @@ sudo apt install git
 
 
 
-12. หน้าแสดงผลบนเบราาว์เซอร์
+12. หน้าแสดงผลบนเบราว์เซอร์
 
 
 ![Screenshot 2023-10-26 224717](https://github.com/Naruemon55/CE241_ID2125/assets/142969653/ff68c056-6491-4b45-9287-924deb60cc75)
