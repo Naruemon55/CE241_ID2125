@@ -1,11 +1,11 @@
 # CE241_ID2125
 CE341 Software Engineering การบ้านครั้งที่ 1
-1. ทำการสร้าง repository ใน GITUP
+1. ทำการสร้าง repository 
 ![Screenshot 2023-10-26 194645](https://github.com/Naruemon55/CE241_ID2125/assets/142969653/36ae94b8-83ac-4c1e-8d51-7c3aa7a43502)
 2. ทำการสร้างไฟล์ index.html และเขียนเนื้อหาด้านใน
 ![Screenshot 2023-10-26 214848](https://github.com/Naruemon55/CE241_ID2125/assets/142969653/42dbbe66-0b85-44c0-a79c-7650f9e84e06)
 3. ทำการอัพโหลดไฟล์ขึ้น repository
-
+![Screenshot 2023-10-26 231346](https://github.com/Naruemon55/CE241_ID2125/assets/142969653/31587f0f-1e83-466a-97c7-246de3e43d3a)
 4. ทำการติดตั้ง apache2 และ GitHub บน Ubuntu20 ด้วยคำสั่ง
 sudo apt update
 ![Screenshot 2023-10-26 223947](https://github.com/Naruemon55/CE241_ID2125/assets/142969653/d1dfffc3-b001-419f-a3c2-c746b39c944a)
