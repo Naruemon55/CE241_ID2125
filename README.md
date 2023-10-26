@@ -60,9 +60,12 @@ sudo apt install git
 
 11.  ทำการกรอก URLเป็น ip address ของ Ubuntu
 
+
 ![Screenshot 2023-10-26 224657](https://github.com/Naruemon55/CE241_ID2125/assets/142969653/ea4d47d5-9ec5-4728-b35d-2be94da18aea)
 
 
+
 12. หน้าแสดงผลบนเบราาว์เซอร์
+
 
 ![Screenshot 2023-10-26 224717](https://github.com/Naruemon55/CE241_ID2125/assets/142969653/ff68c056-6491-4b45-9287-924deb60cc75)
